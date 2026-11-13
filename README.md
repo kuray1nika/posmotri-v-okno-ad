@@ -1,0 +1,1 @@
+https://github.com/kuray1nika/posmotri-v-okno-ad.git
